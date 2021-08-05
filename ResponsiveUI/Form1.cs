@@ -168,7 +168,7 @@ namespace ResponsiveUI
                         }
                         catch (Exception exp)
                         {
-                            MessageBox.Show(exp.ToString());
+                            MessageBox.Show(exp.Message.ToString());
                         }
                         break;
 

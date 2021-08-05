@@ -8,3 +8,13 @@ E:\CSharp\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.csproj.GenerateResour
 E:\CSharp\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.csproj.CoreCompileInputs.cache
 E:\CSharp\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.exe
 E:\CSharp\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.pdb
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\bin\Debug\ResponsiveUI.exe.config
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\bin\Debug\ResponsiveUI.exe
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\bin\Debug\ResponsiveUI.pdb
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.csproj.AssemblyReference.cache
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.Form1.resources
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.Properties.Resources.resources
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.csproj.GenerateResource.cache
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.csproj.CoreCompileInputs.cache
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.exe
+E:\Project OOp2\ResponsiveUI\ResponsiveUI\obj\Debug\ResponsiveUI.pdb
